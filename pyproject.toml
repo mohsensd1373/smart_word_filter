@@ -1,6 +1,6 @@
 [project]
 name = "smart_word_filter"
-description = ""
+description = "A custom node for filtering, adding, removing, and processing WD14/Danbooru tags based on saved profiles."
 version = "1.0.0"
 license = "MIT"
 
