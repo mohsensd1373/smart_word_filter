@@ -1,0 +1,159 @@
+# Tag list for category: subject
+# One tag per line (or several separated by commas). Lines starting with # are comments.
+# Case and space/underscore differences are ignored. Changes apply without restarting ComfyUI.
+# If a tag is in several files, the first category in this order wins:
+# subject, face, hair, body, pose, clothing, background, lighting, camera_style.
+# To move a tag, delete it from the old file.
+1girl
+2girls
+3girls
+4girls
+5girls
+6+girls
+multiple girls
+1boy
+2boys
+3boys
+4boys
+multiple boys
+1other
+2others
+multiple others
+solo
+solo focus
+couple
+group
+everyone
+crowd
+girl
+boy
+woman
+man
+female
+male
+mature female
+mature male
+no humans
+hetero
+yuri
+yaoi
+futanari
+trap
+crossdressing
+otoko no ko
+faceless
+faceless male
+faceless female
+harem
+reverse harem
+threesome
+ffm threesome
+mmf threesome
+group sex
+gangbang
+orgy
+virtual youtuber
+character name
+cosplay
+multiple views
+siblings
+magical girl
+demon girl
+cat girl
+monster girl
+sisters
+horse girl
+fox girl
+elf
+genderswap
+bara
+furry
+androgynous
+genderswap (mtf)
+dual persona
+personification
+kemonomimi mode
+6+boys
+dragon girl
+twins
+oni
+borrowed character
+mouse ears
+brother and sister
+rabbit girl
+furry female
+dog girl
+android
+angel
+wolf girl
+cow ears
+witch
+fairy
+5boys
+furry male
+raccoon ears
+tiger ears
+vampire
+giant
+draph
+mother and daughter
+manly
+mermaid
+idol
+genderswap (ftm)
+erune
+old
+cow girl
+bishounen
+lion ears
+brothers
+giantess
+miqo'te
+jiangshi
+cyborg
+bear ears
+heads together
+pervert
+nekomata
+assertive female
+skeleton
+old man
+superhero
+female pervert
+monster boy
+shark girl
+robot ears
+cat boy
+demon boy
+mouse girl
+squirrel ears
+bird ears
+lion girl
+slime girl
+tiger girl
+raccoon girl
+sheep ears
+sheep girl
+dog boy
+squirrel girl
+bird girl
+spider girl
+deer ears
+fox boy
+fish girl
+wolf boy
+tiger boy
+bear girl
+goat ears
+panda ears
+cow boy
+bat ears
+3others
+6+others
+goat girl
+rabbit boy
+owl ears
+lion boy
+dragon boy
+fish boy
+pig ears

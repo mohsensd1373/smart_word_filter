@@ -1,0 +1,624 @@
+# Tag list for the 'objects' profile.
+# One tag per line (or several separated by commas). Lines starting with # are comments.
+# Case and space/underscore differences are ignored. Changes apply live, no restart needed.
+# The profile name comes from THIS file name; adding a new <name>.txt file in
+# tag_lists/ or tag_lists_default/ creates a new '★ <Name>' profile automatically.
+weapon
+sword
+gun
+katana
+knife
+rifle
+handgun
+spear
+staff
+shield
+bow (weapon)
+arrow (projectile)
+food
+fruit
+cake
+candy
+chocolate
+ice cream
+drink
+cup
+mug
+teacup
+bottle
+alcohol
+bowl
+plate
+spoon
+fork
+chopsticks
+bag
+backpack
+handbag
+basket
+box
+gift
+phone
+cellphone
+smartphone
+camera
+microphone
+instrument
+guitar
+book
+open book
+paper
+card
+sign
+umbrella
+towel
+broom
+ball
+lantern
+clock
+pen
+wand
+crystal
+gem
+skull
+fire
+ice
+smoke
+blood
+doll
+stuffed toy
+teddy bear
+cigarette
+condom
+bouquet
+rose
+leaf
+plant
+flower pot
+pokemon (creature)
+bird
+animal
+cat
+stuffed animal
+bug
+robot
+polearm
+ground vehicle
+butterfly
+sheath
+mecha
+motor vehicle
+abyssal ship
+tray
+headset
+machinery
+fish
+innertube
+beads
+monster
+dog
+poke ball
+pouch
+ghost
+rabbit
+turret
+popsicle
+sheathed
+lollipop
+red rose
+ofuda
+rock
+snake
+strawberry
+aircraft
+fence
+can
+dragon
+anchor symbol
+arrow (symbol)
+apple
+folding fan
+railing
+sunflower
+branch
+cannon
+name tag
+jack-o'-lantern
+hitodama
+gift box
+eyeball
+character doll
+pocky
+gohei
+military vehicle
+vision (genshin impact)
+electricity
+anchor
+glass
+poke ball (basic)
+flag
+frog
+scythe
+airplane
+potted plant
+beachball
+bucket
+assault rifle
+rigging
+lamp
+candle
+controller
+bench
+mecha musume
+stuffed bunny
+cable
+creature
+randoseru
+peach
+air bubble
+sack
+oil-paper umbrella
+confetti
+dagger
+heart of string
+autumn leaves
+blue rose
+antlers
+hibiscus
+carrot
+string
+pumpkin
+wine glass
+bat (animal)
+computer
+parasol
+torii
+teapot
+axe
+watercraft
+magatama
+wagashi
+condom wrapper
+balloon
+used condom
+tea
+pigeon-toed
+paintbrush
+disposable cup
+torpedo
+shimenawa
+photo (object)
+maple leaf
+bamboo
+cowbell
+pencil
+black cat
+mushroom
+tank
+id card
+television
+duel monster
+huge weapon
+doughnut
+sakazuki
+white rose
+bread
+sliding doors
+pink rose
+cookie
+handheld game console
+fireworks
+chalkboard
+syringe
+watermelon
+stool
+rice
+monitor
+submachine gun
+playing instrument
+hammer
+beer
+scroll
+sake
+rainbow
+egg
+sniper rifle
+planet
+motorcycle
+cushion
+cherry
+chess piece
+coin
+game controller
+lamppost
+scissors
+horse
+saucer
+shell
+playing card
+coffee
+burger
+clipboard
+doll joints
+wine
+kotatsu
+shelf
+pillar
+whip
+cardboard box
+paper fan
+diamond (shape)
+tape
+orb
+baseball bat
+grapes
+laptop
+explosive
+book stack
+shopping bag
+electric guitar
+dog tags
+dango
+meat
+infection monitor (arknights)
+blood splatter
+trading card
+ship
+microphone stand
+closed umbrella
+noodles
+paper lantern
+robot joints
+vase
+picture frame
+bone
+beer mug
+heart-shaped box
+spring onion
+notebook
+heart-shaped chocolate
+cable knit
+ice cream cone
+blue fire
+poster (object)
+orange (fruit)
+machine gun
+baby
+boat
+letter
+crab
+wine bottle
+blue butterfly
+milk
+interface headset
+coffee mug
+starfish
+taking picture
+blood on weapon
+stick
+soul gem
+bubble blowing
+tissue box
+game console
+against glass
+red rope
+earth (planet)
+spider lily
+spider web
+painting (object)
+cat paws
+cake slice
+purple rose
+keyboard (computer)
+violin
+energy sword
+drum
+american flag
+sushi
+paper bag
+string of fate
+envelope
+pizza
+candy apple
+digimon (creature)
+sake bottle
+banner
+tablet pc
+energy gun
+toy
+tomato
+chips (food)
+reindeer antlers
+magazine (weapon)
+purple umbrella
+beer can
+bubble tea
+vegetable
+soda can
+newspaper
+magazine cover
+in box
+piano
+yellow rose
+stained glass
+candy cane
+brown bag
+four-leaf clover
+shell casing
+cheese
+stuffed cat
+trash can
+ladder
+pudding
+sword of hisou
+soccer ball
+electric fan
+bass guitar
+duffel bag
+turtle shell
+pig
+doll hug
+sweets
+magazine (object)
+shaved ice
+skull and crossbones
+plastic bag
+swirl lollipop
+rice bowl
+club (weapon)
+black bag
+mouse (computer)
+coffee cup
+ice cube
+short sword
+string of flags
+jellyfish
+phone screen
+white cat
+red umbrella
+prayer beads
+milk bottle
+dessert
+creature and personification
+keyboard (instrument)
+drawing tablet
+pill
+black rose
+video camera
+hammer and sickle
+egg (food)
+oversized animal
+birthday cake
+wooden bucket
+turtle
+inflatable toy
+transparent umbrella
+picture (object)
+slime (creature)
+in bucket
+flute
+shared umbrella
+cocktail glass
+energy ball
+ok sign
+humanoid robot
+strawberry shortcake
+blood stain
+alarm clock
+fried egg
+spear the gungnir
+rainbow order
+watering can
+condom packet strip
+hitachi magic wand
+champagne flute
+shared food
+non-humanoid robot
+board game
+in food
+gatling gun
+anti-materiel rifle
+spider
+super robot
+eastern dragon
+beam rifle
+kalashnikov rifle
+instrument case
+torpedo tubes
+aerial fireworks
+poke ball symbol
+wooden sword
+holstered weapon
+milk carton
+marker
+incoming gift
+diamond button
+claw (weapon)
+chocolate bar
+choko (cup)
+mechanical pencil
+staff (music)
+sorcerer's sutra scroll
+checkerboard cookie
+bamboo broom
+gem (symbol)
+video game
+japanese flag
+painting (action)
+dinosaur
+love letter
+pink blood
+caution tape
+spiked shell
+magnifying glass
+sanshoku dango
+plant girl
+cotton candy
+boned meat
+bowl cut
+fake antlers
+halloween bucket
+donation box
+palm leaf
+pointless condom
+stone lantern
+lotion bottle
+spell card
+dakimakura (object)
+alternate weapon
+rainbow gradient
+cat teaser
+incoming food
+clock tower
+italian flag
+pink bag
+flip phone
+mixing bowl
+breathing fire
+tropical drink
+wooden fence
+cup ramen
+playstation controller
+cow
+picnic basket
+on bench
+german flag
+animal bag
+curry rice
+soup
+paper airplane
+cellphone picture
+animal hug
+molten rock
+giving up the ghost
+tiered tray
+watermelon bar
+on vehicle
+ginkgo leaf
+gift bag
+torpedo launcher
+unicorn
+soda bottle
+guitar case
+drum set
+vaulting horse
+bad food
+drum (container)
+photo inset
+drawing sword
+butterfly net
+stuffed winged unicorn
+arrow through heart
+candy wrapper
+master sword
+purple fire
+red bag
+grocery bag
+tennis ball
+angora rabbit
+yin yang orb
+heart balloon
+lute (instrument)
+under kotatsu
+hot dog
+trash bag
+messenger bag
+ice skates
+red apple
+in cup
+daruma doll
+corded phone
+pet bowl
+white snake
+yellow bag
+animal on lap
+ink tank (splatoon)
+adapted turret
+pencil case
+white bag
+white umbrella
+saber (weapon)
+multiple swords
+blood on knife
+glaive (polearm)
+yellow butterfly
+diamond (gemstone)
+flaming weapon
+backpack removed
+analog clock
+yarn ball
+bamboo steamer
+blue bag
+green bag
+crystal ball
+monster energy
+food stand
+ultra ball
+oversized food
+jeweled branch of hourai
+black umbrella
+melon bread
+net
+easter egg
+acoustic guitar
+white butterfly
+buster sword
+animal skull
+group picture
+energy drink
+evangelion (mecha)
+flaming sword
+pigeon
+bar stool
+blank speech bubble
+onion
+spray can
+paper crane
+chicken (food)
+tape measure
+green tea
+ammunition pouch
+cartoon bone
+dialogue box
+nib pen (object)
+bagged fish
+pizza slice
+bicycle basket
+card parody
+speaking tube headset
+leaf umbrella
+tea set
+grand piano
+condom box
+pegasus
+bishamonten's spear
+year of the dog
+game boy
+book hug
+kiwi (fruit)
+french flag
+box of chocolates
+on motorcycle
+box art
+throwing knife
+shared speech bubble
+seal (animal)
+crane (animal)
+watching television
+blood bag
+year of the pig
+bag of chips
+white bird
+perfume bottle
+shotgun shell
+soap bottle
+baby bottle
+pink umbrella
+gun to head
+food art
+cat bag
+against railing
+multiple torii
+blue umbrella
+pastry bag
+stuffed dog

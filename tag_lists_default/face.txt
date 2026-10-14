@@ -1,0 +1,459 @@
+# Tag list for category: face
+# One tag per line (or several separated by commas). Lines starting with # are comments.
+# Case and space/underscore differences are ignored. Changes apply without restarting ComfyUI.
+# If a tag is in several files, the first category in this order wins:
+# subject, face, hair, body, pose, clothing, background, lighting, camera_style.
+# To move a tag, delete it from the old file.
+smile
+light smile
+smirk
+grin
+evil smile
+seductive smile
+naughty face
+smug
+shy
+embarrassed
+nervous
+flustered
+happy
+sad
+angry
+annoyed
+crying
+crying with eyes open
+streaming tears
+tears
+teardrop
+surprised
+scared
+disgust
+expressionless
+serious
+bored
+tired
+sleepy
+drunk
+laughing
+giggling
+:d
+:o
+:3
+;)
+;d
+:p
+;p
+o o
+^ ^
+pout
+frown
+scowl
+blush
+light blush
+full-face blush
+nose blush
+blush stickers
+ear blush
+heavy breathing
+panting
+sweat
+sweatdrop
+orgasm
+ahegao
+fucked silly
+rolling eyes
+eyes rolling back
+cross-eyed
+heart-shaped pupils
+heart in eyes
+symbol-shaped pupils
+empty eyes
+unfocused eyes
+glazed eyes
+half-closed eyes
+wide-eyed
+closed eyes
+one eye closed
+wink
+bedroom eyes
+open mouth
+closed mouth
+parted lips
+mouth hold
+tongue
+tongue out
+long tongue
+saliva
+saliva trail
+drooling
+drool
+teeth
+clenched teeth
+gritted teeth
+fang
+fangs
+fang out
+lip biting
+lip bite
+biting lip
+licking lips
+kiss
+kissing
+french kiss
+cum in mouth
+cum on face
+facial
+cum on tongue
+cum on lips
+cum string
+gag
+ball gag
+tongue piercing
+lipstick
+lip gloss
+lips
+makeup
+eyeshadow
+eyeliner
+mascara
+eyelashes
+long eyelashes
+colored eyelashes
+thick eyebrows
+eyebrows
+eyebrows visible through hair
+freckles
+mole
+mole under eye
+mole under mouth
+beauty mark
+nose
+heterochromia
+slit pupils
+glowing eyes
+ringed eyes
+tsurime
+tareme
+jitome
+animal ears
+cat ears
+dog ears
+fox ears
+wolf ears
+rabbit ears
+horse ears
+pointy ears
+elf ears
+ears
+facial mark
+black eyes
+brown eyes
+blonde eyes
+blue eyes
+red eyes
+pink eyes
+white eyes
+grey eyes
+silver eyes
+green eyes
+purple eyes
+orange eyes
+aqua eyes
+yellow eyes
+multicolored eyes
+two-tone eyes
+gradient eyes
+streaked eyes
+light brown eyes
+dark blue eyes
+light blue eyes
+light purple eyes
+light green eyes
+lavender eyes
+v-shaped eyebrows
+animal ear fluff
+fake animal ears
+upper teeth only
+wavy mouth
+sharp teeth
+^^^
+?
+shaded face
+third eye
+...
+bright pupils
+:<
+extra ears
+scar on face
+finger to mouth
+forehead
+skin fang
+colored sclera
+tearing up
+happy birthday
+!
+:q
+white pupils
+blood on face
+:t
+pink lips
+one eye covered
+raised eyebrows
+forehead mark
+!?
+short eyebrows
+round teeth
+scar across eye
+furrowed brow
+dot nose
+black sclera
+wince
+food on face
+covered mouth
+red lips
+no nose
+chestnut mouth
+bags under eyes
+happy sex
+:>
+>:)
++++
+triangle mouth
+food in mouth
+alternate eye color
+star-shaped pupils
+happy new year
+hand on own chin
+glowing eye
+imminent kiss
+^o^
+scar on cheek
+face-to-face
+0 0
+constricted pupils
+covered eyes
+symbol in eye
+facial tattoo
+no pupils
+;o
+forehead jewel
+!!
+:/
+d:
+torogao
+3:
+body blush
+\m/
+light frown
+blank eyes
+xd
+no eyes
+split mouth
+animal nose
+female orgasm
+:|
+sparkling eyes
+=3
+extra eyes
+forehead protector
+purple lips
+solid circle eyes
+no mouth
+condom in mouth
+yellow sclera
+solid oval eyes
+crazy eyes
+>:(
+hand on another's cheek
+red eyeshadow
+floppy ears
+evil grin
+ear ornament
+hand on another's chin
+sideways mouth
+raised eyebrow
+half-closed eye
+v over eye
+blood from mouth
+:>=
+2021
+cheek-to-cheek
+2022
+lower teeth only
+kissing cheek
+flower-shaped pupils
+;q
+uneven eyes
+penis on face
+happy halloween
+forked eyebrows
+hands on another's face
+heart in eye
+star in eye
+gloom (expression)
+2020
+hand over own mouth
+heart in mouth
+covering own eyes
+ears down
+red sclera
+mole on thigh
+flaming eye
+nervous smile
+finger to cheek
+2018
+happy valentine
+mouth drool
+red pupils
+2019
+2016
+horizontal pupils
+scar on nose
+sitting on face
+puckered lips
+2015
+jackal ears
+rubbing eyes
+o3o
+2017
+:i
+blue lips
+smiley face
+finger in another's mouth
+??
+dirty face
+colored tongue
+shading eyes
+ear tag
+black lips
+green lips
+long pointy ears
+;3
+finger in own mouth
+false smile
+nose bubble
+covered face
+diamond-shaped pupils
+cheek pinching
+cheek poking
+scar on forehead
+face to breasts
+69
+finger to own chin
+happy tears
+after kiss
+:x
+pocky kiss
+buck teeth
+skin fangs
+surprise kiss
+leopard ears
+mismatched pupils
+grabbing another's chin
+in the face
+2014
+lipstick tube
+crazy smile
+narrowed eyes
+lipstick mark
+kissing forehead
+blood from eyes
+fangs out
+wiping tears
+mole on neck
+2013
+2012
+2010
+brushing teeth
+monkey ears
+39
+forehead-to-forehead
+finger to face
+blue eyeshadow
+2011
+blowing kiss
+jaguar ears
+dot mouth
+mole on ass
+yellow pupils
+pink pupils
+stitched face
+stroking own chin
+wiping face
+cheek bulge
+2009
+bruise on face
+eye of horus
+hands on another's cheeks
+artificial eye
+eyebrow cut
+cheek squash
+red eyeliner
+utensil in mouth
+alpaca ears
+mechanical ears
+blue sclera
+blue tongue
+pouty lips
+mouth pull
+body freckles
+cheek press
+button eyes
+forked tongue
+mole above mouth
+mechanical eye
+bunny-shaped pupils
+licking another's face
+extra mouth
+hand on forehead
+covering one eye
+purple eyeshadow
+rectangular mouth
+drinking straw in mouth
+toast in mouth
+troll face
+pursed lips
+>o<
+ear biting
+rice on face
+kissing hand
+otter ears
+no eyebrows
+notched ear
+puffy cheeks
+mole on stomach
+unusually open eyes
+cum in nose
+no mole
+upturned eyes
+thick lips
+single ear cover
+2008
+pointy nose
+x-shaped pupils
+cephalopod eyes
+mole on cheek
+mismatched eyebrows
+pink eyeshadow
+mole on body
+cheek pull
+2007
+solid eyes
+green sclera
+flower over eye
+forced orgasm
+cream on face
+kissing penis
+ear protection
+clock eyes
+solid circle pupils
+stitched mouth
+eye black
+green eyeshadow
+hand over eye
+weasel ears
+blue pupils
+teeth hold
+eye trail
+sticker on face
+paint splatter on face

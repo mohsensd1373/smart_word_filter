@@ -1,0 +1,62 @@
+# Tag list for the 'lighting' profile.
+# One tag per line (or several separated by commas). Lines starting with # are comments.
+# Case and space/underscore differences are ignored. Changes apply live, no restart needed.
+# The profile name comes from THIS file name; adding a new <name>.txt file in
+# tag_lists/ or tag_lists_default/ creates a new '★ <Name>' profile automatically.
+lighting
+sunlight
+moonlight
+candlelight
+backlighting
+backlit
+rim light
+rim lighting
+shadow
+glow
+glowing
+sparkle
+shiny
+reflection
+lens flare
+light rays
+sunbeam
+dappled sunlight
+dark
+bright
+dim
+dim lighting
+neon lights
+spotlight
+volumetric lighting
+cinematic lighting
+soft lighting
+dramatic lighting
+studio lighting
+high contrast
+ambient light
+light particles
+glint
+light
+lights
+dark persona
+dark background
+fox shadow puppet
+dark elf
+glowing weapon
+shiny pokemon
+drop shadow
+city lights
+sparkle background
+light bulb
+stage lights
+glowing sword
+light trail
+ceiling light
+traffic light
+different reflection
+christmas lights
+dark aura
+colored shadow
+glowing butterfly
+double fox shadow puppet
+light blue background

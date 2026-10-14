@@ -1,0 +1,181 @@
+# Tag list for category: Body Pose
+# One tag per line (or several separated by commas). Lines starting with # are comments.
+# Case and space/underscore differences are ignored. Changes apply without restarting ComfyUI.
+# The category name comes from THIS file name; adding a new <name>.txt file in
+# tag_lists/ or tag_lists_default/ creates a new category automatically.
+# If a tag is in several files, the first category in this order wins:
+# subject, face, hair, body, pose, clothing, objects, background, lighting, camera_style.
+# To move a tag, delete it from the old file.
+standing
+sitting
+kneeling
+lying
+leaning
+bending
+arched_back
+twisting_body
+turning
+walking
+running
+jumping
+crouching
+squatting
+stretching
+posing
+dynamic_pose
+action_pose
+battle_pose
+hero_pose
+ژست‌های پایه بدن
+standing
+sitting
+kneeling
+squatting
+crouching
+lying
+lying_on_back
+lying_on_stomach
+lying_on_side
+reclining
+leaning
+leaning_forward
+leaning_back
+bent_over
+bending
+twisting_body
+arched_back
+stretching
+floating
+ژست‌های حرکتی
+walking
+running
+jumping
+landing
+falling
+spinning
+dodging
+charging
+dashing
+sliding
+climbing
+diving
+ژست‌های مدلینگ و فشن
+model_pose
+fashion_pose
+posing
+contrapposto
+hip_popped
+leg_forward_pose
+runway_pose
+editorial_pose
+pinup_pose
+over_the_shoulder
+back_to_viewer
+profile
+three_quarter_view
+cowboy_shot
+full_body
+ژست‌های احساسی و رفتاری
+laughing
+smiling
+crying
+shouting
+screaming
+talking
+whispering
+singing
+cheering
+celebrating
+thinking
+confused
+surprised
+embarrassed
+shy_pose
+angry_pose
+sad_pose
+confident_pose
+ژست‌های تعامل چند نفره
+hugging
+embracing
+holding_hands
+handshake
+high_five
+piggyback
+carrying_person
+group_pose
+team_pose
+selfie_pose
+conversation_pose
+argument_pose
+comforting
+ژست‌های رمانتیک
+kissing
+kissing_cheek
+kissing_forehead
+romantic_pose
+intimate_pose
+cuddling
+lap_sitting
+back_hug
+side_hug
+ژست‌های جنسی (Danbooru)
+seductive_pose
+suggestive_pose
+provocative_pose
+erotic_pose
+sensual_pose
+dominant_pose
+submissive_pose
+teasing_pose
+inviting_pose
+bed_pose
+couch_pose
+straddling
+mounting
+lap_dance
+ژست‌های پورنوگرافی رایج Danbooru
+sex_pose
+missionary_position
+cowgirl_position
+reverse_cowgirl_position
+doggy_style
+spooning_position
+standing_sex
+wall_sex
+table_sex
+bed_sex
+floor_sex
+face_to_face_sex
+from_behind
+car_sex
+shower_sex
+ژست‌های اکشن و مبارزه
+action_pose
+dynamic_pose
+battle_pose
+combat_pose
+attack_pose
+defensive_pose
+ready_to_fight
+victory_pose
+heroic_pose
+intimidating_pose
+power_pose
+ژست‌های مبارزه با شمشیر
+sword_pose
+sword_fighting
+sword_attack
+sword_ready
+sword_guard
+sword_stance
+dual_wielding
+ژست‌های مبارزه با تفنگ
+gun_pose
+gun_fighting
+aiming_gun
+shooting
+gun_ready
+tactical_pose
+sniper_pose
+gunpoint
+covering_fire

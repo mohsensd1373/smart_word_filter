@@ -1,0 +1,295 @@
+# Tag list for category: camera_style
+# One tag per line (or several separated by commas). Lines starting with # are comments.
+# Case and space/underscore differences are ignored. Changes apply without restarting ComfyUI.
+# If a tag is in several files, the first category in this order wins:
+# subject, face, hair, body, pose, clothing, background, lighting, camera_style.
+# To move a tag, delete it from the old file.
+full body
+upper body
+lower body
+cowboy shot
+close-up
+extreme close-up
+portrait
+dutch angle
+pov
+pov hands
+pov crotch
+from above
+from below
+from behind
+from side
+wide shot
+head out of frame
+out of frame
+cropped
+fisheye
+depth of field
+blurry
+bokeh
+motion blur
+chromatic aberration
+film grain
+vignette
+upskirt
+pantyshot
+breast focus
+ass focus
+foot focus
+thigh focus
+navel focus
+armpit focus
+crotch focus
+pussy focus
+penis focus
+hip focus
+face focus
+male focus
+censored
+uncensored
+mosaic censoring
+bar censor
+convenient censoring
+novelty censor
+monochrome
+greyscale
+sepia
+colorful
+vibrant
+pastel
+realistic
+photorealistic
+photo
+3d
+anime
+sketch
+lineart
+painting
+watercolor
+oil painting
+traditional media
+digital media
+illustration
+cg
+masterpiece
+best quality
+high quality
+highres
+absurdres
+ultra detailed
+detailed
+8k
+4k
+official art
+watermark
+signature
+web address
+artist name
+text
+english text
+logo
+username
+border
+comic
+heart
+chibi
+twitter username
+dated
+speech bubble
+gradient
+profile
+4koma
+copyright name
+parody
+flying sweatdrops
+cover
+crossover
+letterboxed
+cover page
+motion lines
+musical note
+foreshortening
+anger vein
+white border
+spoken heart
+doujin cover
+spot color
+bubble
+one-hour drawing challenge
+meme
+spoken ellipsis
+outline
+emphasis lines
+blue theme
+thought bubble
+page number
+patreon username
+dakimakura (medium)
+blurry foreground
+hug from behind
+cropped torso
+oekaki
+meme attire
+text focus
+eighth note
+card (medium)
+zoom layer
+chinese text
+pointless censoring
+silhouette
+silent comic
+2koma
+heart censor
+retro artstyle
+korean text
+notice lines
+magic
+spoken question mark
+style parody
+bad anatomy
+white outline
+painting (medium)
+marker (medium)
+artist logo
+black border
+transparent
+tachi-e
+sample watermark
+magic circle
+aura
+hair censor
+sound effects
+reference sheet
+graphite (medium)
+limited palette
+animification
+squiggle
+watercolor (medium)
+company name
+gameplay mechanics
+out-of-frame censoring
+halftone
+spoken exclamation mark
+name connection
+artist self-insert
+ranguage
+animal focus
+x-ray
+split
+voice actor connection
+pink theme
+afterimage
+partially colored
+anniversary
+purple theme
+1990s (style)
+vehicle focus
+engrish text
+red theme
+chibi inset
+content rating
+jaggy lines
+official style
+error
+zzz
+merry christmas
+birthday
+perspective
+animalization
+trait connection
+green theme
+unfinished
+pun
+take your pick
+spoken musical note
+speed lines
+expressions
+flat color
+time paradox
+patreon logo
+unmoving pattern
+colored pencil (medium)
+yellow theme
+romaji text
+spoken blush
+1980s (style)
+halftone background
+food focus
+horror (theme)
+digital media player
+spoken squiggle
+spoken interrobang
+weibo username
+anime coloring
+brown theme
+white theme
+orange theme
+calendar (medium)
+female pov
+millipen (medium)
+faux traditional media
+steam censor
+russian text
+spoken anger vein
+blur censor
+nib pen (medium)
+censored nipples
+jack-o' challenge
+spoken sweatdrop
+identity censor
+eye focus
+deviantart username
+other focus
+aqua theme
+german text
+simplified chinese text
+tail censor
+weibo logo
+grey border
+black theme
+mixed-language text
+sailor moon redraw challenge (meme)
+twitter logo
+alphes (style)
+spoken character
+acrylic paint (medium)
+they had lots of sex afterwards (meme)
+back focus
+french text
+light censor
+soap censor
+spoken object
+multiple monochrome
+no lineart
+thai text
+2000s (style)
+poke ball theme
+poster (medium)
+instagram username
+traditional chinese text
+bubble tea challenge
+grey theme
+blank censor
+character censor
+red border
+pastel colors
+portrait (object)
+araki hirohiko (style)
+riyo (lyomsnpmp) (style)
+character signature
+pink border
+blue border
+multiple drawing challenge
+logo parody
+pov across table
+pixiv username
+pectoral focus
+rhodes island logo
+very wide shot
+italian text
+facebook username
+ink (medium)
+watercolor pencil (medium)
+calligraphy brush (medium)
+split theme
+pov doorway
