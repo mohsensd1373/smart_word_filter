@@ -17,4 +17,4 @@ jobs:
       - name: Publish Custom Node
         uses: Comfy-Org/publish-node-action@v1
         with:
-          personal_access_token: ${{ secrets.comfy_node_publish }}
+          personal_access_token: ${{ secrets.COMFY_NODE_PUBLISH }}
