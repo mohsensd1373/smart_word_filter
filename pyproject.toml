@@ -29,7 +29,9 @@ Documentation = "https://github.com/mohsensd1373/smart_word_filter/wiki"
 
 [tool.comfy]
 PublisherId = "kingblack7313"
+publisher_id = "kingblack7313"
 DisplayName = "smart_word_filter"
+display_name = "smart_word_filter"
 Icon = ""
+icon = ""
 includes = []
-# "requires-comfyui" = ">=1.0.0"  # ComfyUI version compatibility
